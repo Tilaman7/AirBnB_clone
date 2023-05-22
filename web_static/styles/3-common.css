@@ -7,11 +7,3 @@ body {
   display: flex;
   align-items: center;
 }
-header a {
-  background-image: url('../images/\ AirBnB\ logo.png');
-  background-repeat: no-repeat;
-  display: block;
-  width: 142%;
-  height: 60px;
-  margin-left: 20px;
-}

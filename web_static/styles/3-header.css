@@ -3,12 +3,13 @@ header {
   height: 70px;
   width: 100%;
   border-bottom: 1px solid #cccccc;
-  position: relative;
 }
 
-.logo {
-  position: absolute;
-  display: grid;
-  top: -15px;
-  padding: 20px;
+header a {
+  background-image: url('../images/\ AirBnB\ logo.png');
+  background-repeat: no-repeat;
+  display: block;
+  width: 142%;
+  height: 60px;
+  margin-left: 20px;
 }
