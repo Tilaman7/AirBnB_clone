@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #484848;
+  font-size: 14px;
+  font-family: Circular, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  display: flex;
+  align-items: center;
+}
+header a {
+  background-image: url('../images/\ AirBnB\ logo.png');
+  background-repeat: no-repeat;
+  display: block;
+  width: 142%;
+  height: 60px;
+  margin-left: 20px;
+}
