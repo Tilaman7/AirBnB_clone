@@ -5,9 +5,9 @@
   border: 1px solid #dddddd;
   border-radius: 4px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
 }
-
+/*----------BUTTON-------------*/
 button {
   font-size: 18px;
   background-color: #ff5a5f;
@@ -22,4 +22,32 @@ button {
 
 button:hover {
   opacity: 0.8;
+}
+
+.locations {
+  border-right: 1px solid #dddddd;
+  margin-left: 30px;
+}
+.locations,
+.amenities {
+  height: 100%;
+  width: 25%;
+  padding: 0;
+}
+
+h3,
+h4 {
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 14px;
+  padding: 0;
 }
